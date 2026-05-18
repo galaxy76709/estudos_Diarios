@@ -1,0 +1,21 @@
+# Sistema
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Node
+node_modules/
+
+# Binários
+*.class
+*.exe
+
+# Ambiente
+.env

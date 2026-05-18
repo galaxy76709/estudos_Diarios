@@ -1,58 +1,56 @@
-# AEDS II — Diário de Estudos
+# ESTUDOS — Diário de Aprendizado
 
-Olá! Me chamo Kayky Marques, sou estudante da PUC Minas. Este repositório serve como diário de estudos e registro de commits diários para a disciplina de Algoritmos e Estruturas de Dados (AEDS II).
+Olá! Me chamo Kayky Marques, sou estudante da PUC Minas. Este repositório serve como meu espaço de estudos, organizado para registrar conteúdos, práticas, resoluções e reflexões sobre diferentes temas ao longo do tempo.
 
 ## Objetivo
 
-- Estudar e memorizar conceitos fundamentais de AEDS.
-- Registrar anotações, resoluções de exercícios e implementações em código.
-- Fazer commits diários com o progresso e reflexões.
+- Centralizar anotações de estudo em um só lugar.
+- Registrar exercícios, resumos, implementações e revisões.
+- Acompanhar a evolução do aprendizado com commits frequentes.
+- Manter um histórico útil para consulta rápida antes de provas, listas e projetos.
 
-## Tópicos que serão estudados
+## Áreas de estudo
 
-- Pilhas (stack)
-- Filas (queue)
-- Listas (ligadas, duplamente ligadas)
-- Algoritmos e análise de complexidade
-- Somatórios e notações (O, Θ, Ω)
-- Ordenação (insertion, selection, merge, quick, heapsort)
-- Estruturas flexíveis (listas, tabelas hash)
-- Árvores binárias
-- Balanceamento de árvores
-- Árvore AVL e variantes
+O repositório pode reunir materiais de diversas disciplinas e temas, como:
+
+- Algoritmos e estruturas de dados
+- Programação em geral
+- Banco de dados
+- Engenharia de software
+- Matemática e lógica
+- Redes de computadores
+- Sistemas operacionais
+- Outros tópicos que surgirem na rotina de estudos
 
 ## Formato de estudo
 
-- Estudo diário com uma nota/arquivo por tópico ou exercício.
-- Implementações em código acompanhadas de comentários explicativos.
-- Cada entrada deve incluir: objetivo, abordagem, complexidade esperada e conclusão.
-- Mensagens de commit padronizadas (ex.: `2026-05-18: pilha — implementação básica`).
+- Uma nota ou arquivo por tema, exercício ou revisão.
+- Implementações em código acompanhadas de explicações curtas e objetivas.
+- Cada entrada pode incluir: objetivo, abordagem, resultados, dificuldades e conclusão.
+- Commits pequenos, frequentes e com mensagem clara.
+- Exemplo de commit: `2026-05-18: aeds2 - pilha - implementacao basica`.
 
 ## Estrutura sugerida do repositório
 
-- `notes/` — anotações e resumos em Markdown
-- `src/` — implementações em código (ex.: C, Java, Python)
-- `exercises/` — enunciados e resoluções de exercícios
-- `README.md` — este arquivo
+- `notes/` — anotações, resumos e revisões em Markdown
+- `src/` — implementações, exemplos e experimentos em código
+- `exercises/` — enunciados, resoluções e treinamentos
+- `README.md` — visão geral do repositório
 
-> Observação: a estrutura pode evoluir conforme o material e as necessidades.
+> Observação: a organização pode mudar conforme novos assuntos forem sendo estudados.
 
-## Convenções de contribuição (pessoal)
+## Convenções pessoais
 
-- Commits pequenos e frequentes, com mensagem clara e data.
-- Nomeie arquivos de forma descritiva (ex.: `stack_push.c`, `avl_insert.py`).
-- Ao refazer exercícios, mantenha uma versão ou anexe breves notas sobre mudanças.
+- Nomeie arquivos de forma descritiva.
+- Registre contexto quando uma solução for importante para revisão futura.
+- Mantenha versões de exercícios refeitos quando houver aprendizado relevante na comparação.
 
 ## Como usar
 
-1. Leia as notas em `notes/` para revisão rápida.
-2. Consulte `exercises/` para prática orientada.
-3. Abra `src/` para estudar implementações e testar código.
+1. Consulte `notes/` para revisão rápida.
+2. Use `exercises/` para prática e fixação.
+3. Abra `src/` para estudar implementações e testar ideias.
 
 ## Contato
 
 - Kayky Marques — estudante PUC Minas
-
----
-
-Boa jornada de estudos! Faça commits diários e use este repositório como sua memória de aprendizado.

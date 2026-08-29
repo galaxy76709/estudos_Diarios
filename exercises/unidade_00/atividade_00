@@ -1,0 +1,49 @@
+#include <stdio.h> 
+
+int readString (char *  Str) 
+{
+	int index  = 0; 
+
+	while ( Str[index] != '/0') 
+	{ index++; }
+
+	return (index);	
+
+
+}
+
+bool Ehpalindromo (char Str [])
+{
+	int readString (Str); 
+	char resp []; 
+	// ler 
+
+	for ( int i = 0; i < resdString; i++ )
+	{
+		for ( int j = readString; j >= 0; j++) 
+		{
+			if ( Str[i] != Str [j]) 
+			{
+				printf("Nao e um palindromo);
+				return false
+			}
+		}
+	}
+		printf("E um palindromo)
+		return true; 
+}
+
+int main ()
+{
+	char Str[999]; 
+	scanf ("%s,Str); 
+	
+	while ( Str[0] != 'F' == Str[1] != [I] && Str[2] != 'M') 
+		{ 	
+			Ehpalindromo(Str);
+			scanf ("%s,Str);
+		} 
+	
+		return 0; 
+}
+	
